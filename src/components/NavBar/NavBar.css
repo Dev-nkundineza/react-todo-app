@@ -1,0 +1,9 @@
+.Menu {
+    height: 20% vh;
+    background-color: rgb(48, 46, 45);
+    display: flex;
+}
+
+.Menu img {
+    height: 20px;
+}
